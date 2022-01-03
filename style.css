@@ -7,6 +7,10 @@ h1 {
     font-size: 50px;
 }
 
+h2 {
+    font-size: 30px;
+}
+
 .color-rakib {
     color: darkorange;
 }
@@ -45,6 +49,38 @@ h1 {
     background-position: right;
 }
 
+.experience-area {
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+.padding-exp-h1 {
+    padding-left: 25px;
+}
+
 .para-justify {
     text-align: justify;
+    padding-right: 10px;
+}
+
+.experience-item {
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    box-shadow: 10px 10px 30px gray;
+    border-radius: 5px;
+}
+
+#baby-web-developer {
+    border-left: 7px solid;
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 1;
+}
+
+#full-stack-dev {
+    border-left: 7px solid;
+    border-image: linear-gradient(darkorange,red);
+    border-image-slice: 1;
 }
