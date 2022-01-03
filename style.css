@@ -16,6 +16,10 @@ h2 {
     color: darkorange;
 }
 
+.box-sub-head {
+    color:rgb(229, 106, 6)
+}
+
 .flexble-container {
     display: flex;
     margin-bottom: 150px;
