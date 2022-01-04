@@ -93,4 +93,7 @@ h2 {
 
 footer p {
     text-align: center;
+    background-color: rgba(207, 207, 207, 0.534);
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
